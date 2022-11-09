@@ -1,0 +1,7 @@
+import { USERS_COUNT, BRANCHES_COUNT, EXPERIMENTS_COUNT } from './consts';
+
+console.log({
+  USERS_COUNT,
+  BRANCHES_COUNT,
+  EXPERIMENTS_COUNT,
+});
