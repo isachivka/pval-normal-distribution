@@ -47,6 +47,19 @@
   resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/@tsconfig/node16/-/node16-1.0.3.tgz#472eaab5f15c1ffdd7f8628bd4c4f753995ec79e"
   integrity sha512-yOlFc+7UtL/89t2ZhjPvvB/DeAr3r+Dq58IgzsFkOAvVC6NMJXmCGjbptdXdR9qsX7pKcTL+s87FtYREi2dEEQ==
 
+"@types/lodash@^4.14.188":
+  version "4.14.188"
+  resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/@types/lodash/-/lodash-4.14.188.tgz#e4990c4c81f7c9b00c5ff8eae389c10f27980da5"
+  integrity sha512-zmEmF5OIM3rb7SbLCFYoQhO4dGt2FRM9AMkxvA3LaADOF1n8in/zGJlWji9fmafLoNyz+FoL6FE0SLtGIArD7w==
+
+ab-test-result@^1.1.1:
+  version "1.1.1"
+  resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/ab-test-result/-/ab-test-result-1.1.1.tgz#9a21701b3f643ee37c6f7a5af737fc3ab5896981"
+  integrity sha512-XHBVuMgXuaqWACggWKDlmH6itMcJ1pMJMPw18+3mhMLzBgmo3qZ7YqQ5WlyPcqkAcig9EnLgPevpR31cgrhp8A==
+  dependencies:
+    bignumber.js "4.0.2"
+    simple-statistics "4.1.1"
+
 acorn-walk@^8.1.1:
   version "8.2.0"
   resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/acorn-walk/-/acorn-walk-8.2.0.tgz#741210f2e2426454508853a2f44d0ab83b7f69c1"
@@ -62,6 +75,11 @@ arg@^4.1.0:
   resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/arg/-/arg-4.1.3.tgz#269fc7ad5b8e42cb63c896d5666017261c144089"
   integrity sha512-58S9QDqG0Xx27YwPSt9fJxivjYl432YCwfDMfZ+71RAqUrZef7LrKQZ3LHLOwCS4FLNBplP533Zx895SeOCHvA==
 
+bignumber.js@4.0.2:
+  version "4.0.2"
+  resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/bignumber.js/-/bignumber.js-4.0.2.tgz#2d1dc37ee5968867ecea90b6da4d16e68608d21d"
+  integrity sha512-yDwucmBlGBJratydODm/oSQzMva3jIfDedWzllSRGTWz2K+X/pAYBvEBKQmSgWdbQPWhRDxey8jZngvkpsQ8Sg==
+
 create-require@^1.1.0:
   version "1.1.1"
   resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/create-require/-/create-require-1.1.1.tgz#c1d7e8f1e5f6cfc9ff65f9cd352d37348756c333"
@@ -72,6 +90,11 @@ diff@^4.0.1:
   resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
+lodash@^4.17.21:
+  version "4.17.21"
+  resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
+  integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
+
 make-error@^1.1.1:
   version "1.3.6"
   resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/make-error/-/make-error-1.3.6.tgz#2eb2e37ea9b67c4891f684a1394799af484cf7a2"
@@ -81,6 +104,11 @@ prettier@^2.7.1:
   version "2.7.1"
   resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
   integrity sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==
+
+simple-statistics@4.1.1:
+  version "4.1.1"
+  resolved "https://artifactory.infrateam.xyz:443/artifactory/api/npm/npm/simple-statistics/-/simple-statistics-4.1.1.tgz#533c48d48336ba3d350d8135f20fa7138acb0c7d"
+  integrity sha512-PmSkGhWaw4BftXu49kpCXjD7QfhIHO/OmB7TQRoVH5Gnx7uE+pxyf8XCgcB3k1o0mdKM8kurfuLKUr++IA6c2A==
 
 ts-node@^10.9.1:
   version "10.9.1"
